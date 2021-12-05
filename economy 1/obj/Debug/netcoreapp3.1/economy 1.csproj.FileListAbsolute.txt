@@ -1,0 +1,15 @@
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\bin\Debug\netcoreapp3.1\economy 1.exe
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\bin\Debug\netcoreapp3.1\economy 1.deps.json
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\bin\Debug\netcoreapp3.1\economy 1.runtimeconfig.json
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\bin\Debug\netcoreapp3.1\economy 1.runtimeconfig.dev.json
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\bin\Debug\netcoreapp3.1\economy 1.dll
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\bin\Debug\netcoreapp3.1\economy 1.pdb
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\obj\Debug\netcoreapp3.1\economy 1.csprojAssemblyReference.cache
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\obj\Debug\netcoreapp3.1\economy_1.Form1.resources
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\obj\Debug\netcoreapp3.1\economy 1.csproj.GenerateResource.cache
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\obj\Debug\netcoreapp3.1\economy 1.AssemblyInfoInputs.cache
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\obj\Debug\netcoreapp3.1\economy 1.AssemblyInfo.cs
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\obj\Debug\netcoreapp3.1\economy 1.csproj.CoreCompileInputs.cache
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\obj\Debug\netcoreapp3.1\economy 1.dll
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\obj\Debug\netcoreapp3.1\economy 1.pdb
+C:\Users\Mathias S Larsen\source\repos\economy 1\economy 1\obj\Debug\netcoreapp3.1\economy 1.genruntimeconfig.cache
